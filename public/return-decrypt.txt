@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1552860576</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>10</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1552860608</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>10</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1552896746</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>10</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1552912791</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>100</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553650083</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553650317</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553651367</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553651367</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553651367</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553651367</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553651367</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553651984</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553652118</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1275</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553652205</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553652297</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553652424</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>2460</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553652467</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553653487</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553668618</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553668791</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1553668883</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1554892984</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1554894196</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1554894275</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>1260</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1555414570</txID>
+	            <bankTxID>9010364</bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>70</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption>mx_master_card</paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557098977</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>110</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557099200</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>110</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557099450</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>80</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557101060</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>70</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557101884</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>80</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557102424</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>80</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557122552</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>70</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557122651</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>110</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557124574</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>110</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557124574</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>110</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557125236</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>70</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557126674</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>70</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557126674</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>70</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557126733</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>70</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1557258801</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>70</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1558567640</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>69</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1558568320</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>109</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1558568968</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>69</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse><?xml version="1.0" encoding="utf-8"?>
+	            <spResponse><txID>NOK1559072075</txID>
+	            <bankTxID></bankTxID>
+	            <bankTxStatus>CANCEL</bankTxStatus>
+	            <txnAmount>69</txnAmount>
+	            <spCode>001</spCode>
+	            <spCodeDes>Cancel</spCodeDes>
+	            <paymentOption></paymentOption></spResponse>
